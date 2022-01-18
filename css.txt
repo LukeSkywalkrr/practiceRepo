@@ -2,3 +2,6 @@ This is A new file  in Branch1
 Added second line in Branch1
 now this is a Third line added to the mater file but it is through github not theough git
 Checking if a can fill from master
+
+//////////////////////
+This is a Branch 222222
