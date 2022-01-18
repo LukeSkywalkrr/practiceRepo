@@ -1,1 +1,2 @@
 This is A new file  in Branch1 
+Added second line in Branch1
